@@ -1,0 +1,1 @@
+./gen_classification_data.bat -datasetSize 100 -datasetFilename dataset.csv -steps 1000 -nevusDistribution 60 0 60 0 20 0 .333 -nevusDistribution 60 0 120 0 20 0 .333 -nevusDistribution 0 0 0 0 20 0 .333
